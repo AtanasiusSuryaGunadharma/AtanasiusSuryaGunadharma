@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Vingorithm<br>👀 I’m interested in Data Analytics and Machine Learning<br>🌱 I’m currently learning Web and Mobile Development
+👋 Hi, I’m @Atanasius Surya Gunadharma<br>👀 I’m interested in Data Analytics and Machine Learning<br>🌱 I’m currently learning Web and Mobile Development
 
 # 📊 GitHub Stats:
 <div align="center">
