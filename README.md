@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AtanasiusSuryaGunadharma&style=flat-square" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AtanasiusSuryaGunadharma&style=flat-square&color=red" alt="" /> </p>
 
 # 💫 About Me:
 👋 Hi, I’m @Atanasius Surya Gunadharma<br>👀 I’m interested in Data Analytics and Machine Learning<br>🌱 I’m currently learning Web and Mobile Development
