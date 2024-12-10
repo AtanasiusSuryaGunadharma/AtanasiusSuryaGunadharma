@@ -16,7 +16,7 @@ As a 5th semester student majoring in Information Systems at Nurul Fikri Integra
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="github-contribution-grid-snake.svg" />
-    <img src="https://github.com/AtanasiusSuryaGunadharma/AtanasiusSuryaGunadharma/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+    <img src="github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 <!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
 </div>
