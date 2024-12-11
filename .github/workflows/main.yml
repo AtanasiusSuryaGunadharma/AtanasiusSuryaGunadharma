@@ -1,0 +1,25 @@
+name: Generate Snake game
+
+on:
+  # Jalankan workflow setiap hari pukul 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Jalankan workflow secara manual
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
+        id: snake-game
+        with:
+          github_user_name: AtanasiusSuryaGunadharma # Username GitHub-mu
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+      - uses: actions/upload-artifact@v3
+        with:
+          name: dist
+          path: dist
