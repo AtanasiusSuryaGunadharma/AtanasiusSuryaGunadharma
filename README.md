@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtanasiusSuryaGunadharma&style=flat-square&color=red" alt="" /> </p>
 
 # 💫 About Me:
-👋 Hi, I’m @Atanasius Surya Gunadharma<br>👀 I’m interested in Data Analytics and Machine Learning<br>🌱 I’m currently learning Web and Mobile Development
+👋 Hi, I’m @Atanasius Surya Gunadharma<br>👀 I’m passionate about Software Development, Machine Learning, and Security Engginer.<br>🌱 I’m currently learning Web and Mobile Development
 
 <img src="https://github.com/AtanasiusSuryaGunadharma/AtanasiusSuryaGunadharma/blob/master/dist/github-contribution-grid-snake.gif" width="100%">
 
